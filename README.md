@@ -1,5 +1,7 @@
 Fork this repo and create a PR for the ones from WhatsApp group.
 
+PR Title should be just the identifier: eg: `praveenscience/SSoC26-Projects`.
+
 ## [Project Unique Identifier, eg: `praveenscience/SSoC26-Projects`]
 
 - Full GitHub URL: 
